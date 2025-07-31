@@ -479,5 +479,6 @@ clickcooldown=clickcooldown-1
 window.addEventListener("keydown", controller.keyListener)
 window.addEventListener("keyup", controller.keyListener);
 window.requestAnimationFrame(loop);
-//do a animation for click using menuanimation
+
 //use photo shop and pencil with big squares to make corner
+//testing
