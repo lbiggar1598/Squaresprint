@@ -481,4 +481,3 @@ window.addEventListener("keyup", controller.keyListener);
 window.requestAnimationFrame(loop);
 
 //use photo shop and pencil with big squares to make corner
-//testing
